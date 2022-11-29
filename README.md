@@ -4,9 +4,9 @@
 - 🔭 I’m currently building a full-stack web app. With Next.js/Express.js/Node.js/SaSS/HTML **GIMTRIA**
 - 🌱 I’m currently learning **Advanced React.js/Node.js/Express.js/Django**
 - 💬 Ask me about **Clean Architecture on Frontend Aplications/Component architecture patterns/ React.js/JS/CSS/HTML/Firebase**
-- 📫 How to reach me **roberto.alaniz3002@gmail.com**
 - ⚡ Member Developer Students Club - IPN
 - ⚡ Member Launch X-Powered by Microsoft
+- - 📫 How to reach me **roberto.alaniz3002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
