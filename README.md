@@ -1,13 +1,12 @@
 <h1 align="center">console.log(Hello World!!) I'm Roberto</h1>
-<h3 align="center">A telematics engineering student at UPIITA/IPN. I am a software developer with more than a year of experience, time in which I have been able to work and contribute to companies, startups, communities with software and technology.</h3>
+<h3 align="left">A telematics engineering student at UPIITA/IPN. I am a software developer with more than a year of experience, time in which I have been able to work and contribute to companies, startups, communities with software and technology.</h3>
 
 - 🔭 I’m currently building a full-stack web app. With Next.js/Express.js/Node.js/SaSS/HTML **GIMTRIA**
-
 - 🌱 I’m currently learning **Advanced React.js/Node.js/Express.js/Django**
-
 - 💬 Ask me about **Clean Architecture on Frontend Aplications/Component architecture patterns/ React.js/JS/CSS/HTML/Firebase**
-
 - 📫 How to reach me **roberto.alaniz3002@gmail.com**
+- ⚡ Member Developer Students Club - IPN
+- ⚡ Member Launch X-Powered by Microsoft
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
