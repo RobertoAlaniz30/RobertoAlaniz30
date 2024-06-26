@@ -1,5 +1,5 @@
 <h1 align="center">🚀🚀🚀console.log("Hello World!!")I'm Roberto🚀🚀🚀</h1> 
-<h3 align="left">A telematics engineering student at UPIITA/IPN. I am a software developer with more than a year of experience, time in which I have been able to work and contribute to companies, startups and communities with software and technology.</h3>
+<h3 align="left">Sr Software Engineer focused in frontend development. I have been able to work and contribute to companies, startups and communities with software and technology.</h3>
 
 - 🔭 I’m currently building a full-stack web app. With Next.js/Express.js/Node.js/SaSS/HTML **GIMTRIA**
 - 🌱 I’m currently learning **Advanced React.js/Node.js/Express.js/Django**
